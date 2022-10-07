@@ -17,3 +17,5 @@ Soluciones:
     D. cat demo.txt demo2.txt | grep -r línia
 
 7.- cat demo.txt | grep -r línia.*blanc
+
+8.- cat demo.txt | grep -r Línia.*Totes
