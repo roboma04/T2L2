@@ -7,3 +7,5 @@ Soluciones:
 3.- touch demo.txt
 
 4.- cat demo.txt | grep -n esta
+
+5.- cat demo.txt | grep -i -n línia
