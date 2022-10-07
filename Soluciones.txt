@@ -19,3 +19,5 @@ Soluciones:
 7.- cat demo.txt | grep -r línia.*blanc
 
 8.- cat demo.txt | grep -r Línia.*Totes
+
+9.- cat demo.txt | grep línia | wc -l
