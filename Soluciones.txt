@@ -21,3 +21,5 @@ Soluciones:
 8.- cat demo.txt | grep -r Línia.*Totes
 
 9.- cat demo.txt | grep línia | wc -l
+
+10.- cat -n demo.txt | grep línia
