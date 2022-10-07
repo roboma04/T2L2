@@ -14,3 +14,4 @@ Soluciones:
     A. cp demo.txt ~/T2L2/prova
     B. touch demo2.txt
     C. cp demo.txt ~/T2L2/demo2.txt
+    D. cat demo.txt demo2.txt | grep -r línia
