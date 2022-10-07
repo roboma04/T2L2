@@ -15,3 +15,5 @@ Soluciones:
     B. touch demo2.txt
     C. cp demo.txt ~/T2L2/demo2.txt
     D. cat demo.txt demo2.txt | grep -r línia
+
+7.- cat demo.txt | grep -r línia.*blanc
