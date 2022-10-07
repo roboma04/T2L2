@@ -9,3 +9,6 @@ Soluciones:
 4.- cat demo.txt | grep -n esta
 
 5.- cat demo.txt | grep -i -n línia
+
+6.-
+    A. cp demo.txt ~/T2L2/prova
